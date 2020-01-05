@@ -1,0 +1,1 @@
+The RandomForestClassifierFromScratch.ipynb notebook will take you through a journey to how to do your own Decision Tree from scratch then a Random Forest. it will give you a deep dive on how these two technique works in details, so enjoy :))!
